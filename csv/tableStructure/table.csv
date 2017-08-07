@@ -1,0 +1,9 @@
+字段编码,字段名称,数据类型,备注
+pro_id          ,省编码,varchar(30)  ,
+pro_name        ,省名称,varchar(60),
+com_id          ,公司编码,varchar(30),
+com_name        ,公司名称,varchar(60),
+salecenter_id   ,营销中心编码,varchar(30),
+salecenter_name ,营销中心名称,varchar(60),
+saleorg_id      ,营销部编码,varchar(30),主键
+saleorg_name    ,营销部名称,varchar(60),

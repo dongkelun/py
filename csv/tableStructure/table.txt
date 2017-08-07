@@ -1,0 +1,8 @@
+<column id="PRO_ID" required="false" primaryKey="false" type="VARCHAR" size="30" name="省编码" />
+<column id="PRO_NAME" required="false" primaryKey="false" type="VARCHAR" size="60" name="省名称" />
+<column id="COM_ID" required="false" primaryKey="false" type="VARCHAR" size="30" name="公司编码" />
+<column id="COM_NAME" required="false" primaryKey="false" type="VARCHAR" size="60" name="公司名称" />
+<column id="SALECENTER_ID" required="false" primaryKey="false" type="VARCHAR" size="30" name="营销中心编码" />
+<column id="SALECENTER_NAME" required="false" primaryKey="false" type="VARCHAR" size="60" name="营销中心名称" />
+<column id="SALEORG_ID" required="true" primaryKey="true" type="VARCHAR" size="30" name="营销部编码" />
+<column id="SALEORG_NAME" required="false" primaryKey="false" type="VARCHAR" size="60" name="营销部名称" />
